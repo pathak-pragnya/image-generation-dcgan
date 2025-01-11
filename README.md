@@ -43,7 +43,8 @@ This project demonstrates the implementation of a Deep Convolutional Generative 
 
 ## **Results**
 - **Generated Images**:
-  - [Add sample generated images or a link to the `results/` folder if available.]
+  - ![image](https://github.com/user-attachments/assets/ab5cd8db-9c0e-4bd3-bcd2-f77787598d05)
+
 
 - **Training Metrics**:
   - Generator and Discriminator losses are tracked and visualized during training.
