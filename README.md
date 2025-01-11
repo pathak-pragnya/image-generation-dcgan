@@ -7,7 +7,7 @@ This project demonstrates the implementation of a Deep Convolutional Generative 
 
 ## **Features**
 - **Custom Dataset**:
-  - The model is trained on a dataset of .
+  - The model is trained on a dataset of https://www.kaggle.com/datasets/splcher/animefacedataset.
   - Includes preprocessing steps like resizing, normalization, and augmentation for optimal training.
 
 - **DCGAN Architecture**:
